@@ -1,0 +1,62 @@
+May 2023 California County Palmer Drought Severity Index (PDSI)
+Missing: -99
+Period of Record: 129 Years
+ID,Name,State,Value,Anomaly (1901-2000 base period),Rank,1901-2000 Mean
+CA-001,Alameda County,California,-0.37,-0.65,55,0.28
+CA-003,Alpine County,California,-0.92,-0.76,55,-0.16
+CA-005,Amador County,California,-0.88,-0.93,52,0.05
+CA-007,Butte County,California,-0.55,-0.61,58,0.06
+CA-009,Calaveras County,California,-0.93,-1.03,51,0.1
+CA-011,Colusa County,California,2.95,2.82,114,0.13
+CA-013,Contra Costa County,California,-0.38,-0.65,53,0.27
+CA-015,Del Norte County,California,-0.55,-0.24,64,-0.31
+CA-017,El Dorado County,California,2.47,2.47,113,0
+CA-019,Fresno County,California,-0.9,-0.92,52,0.02
+CA-021,Glenn County,California,2.6,2.55,112,0.05
+CA-023,Humboldt County,California,-0.57,-0.39,64,-0.18
+CA-025,Imperial County,California,-1.2,-1.74,59,0.54
+CA-027,Inyo County,California,3.85,3.88,117,-0.03
+CA-029,Kern County,California,3.43,3.45,109,-0.02
+CA-031,Kings County,California,5.59,5.54,121,0.05
+CA-033,Lake County,California,-0.05,-0.04,78,-0.01
+CA-035,Lassen County,California,2.09,1.97,103,0.12
+CA-037,Los Angeles County,California,3,2.77,113,0.23
+CA-039,Madera County,California,-0.87,-0.99,54,0.12
+CA-041,Marin County,California,-0.33,-0.33,71,0
+CA-043,Mariposa County,California,-0.91,-0.99,52,0.08
+CA-045,Mendocino County,California,-0.17,-0.17,73,0
+CA-047,Merced County,California,4.61,4.53,124,0.08
+CA-049,Modoc County,California,2.04,1.84,94,0.2
+CA-051,Mono County,California,4.63,4.89,127,-0.26
+CA-053,Monterey County,California,3.34,3.06,116,0.28
+CA-055,Napa County,California,-0.38,-0.39,67,0.01
+CA-057,Nevada County,California,2,2.05,110,-0.05
+CA-059,Orange County,California,3.34,3.16,114,0.18
+CA-061,Placer County,California,2.47,2.46,112,0.01
+CA-063,Plumas County,California,2.36,2.35,114,0.01
+CA-065,Riverside County,California,1.85,1.51,92,0.34
+CA-067,Sacramento County,California,-0.61,-0.56,58,-0.05
+CA-069,San Benito County,California,3.02,2.85,113,0.17
+CA-071,San Bernardino County,California,1.54,1.33,86,0.21
+CA-073,San Diego County,California,3.15,2.67,108,0.48
+CA-075,San Francisco County,California,3.85,3.54,118,0.31
+CA-077,San Joaquin County,California,4.27,4.23,123,0.04
+CA-079,San Luis Obispo County,California,4.08,3.81,119,0.27
+CA-081,San Mateo County,California,0.56,0.43,83,0.13
+CA-083,Santa Barbara County,California,3.68,3.17,118,0.51
+CA-085,Santa Clara County,California,-0.32,-0.53,61,0.21
+CA-087,Santa Cruz County,California,-0.29,-0.31,69,0.02
+CA-089,Shasta County,California,0.15,0.04,78,0.11
+CA-091,Sierra County,California,2.17,2.25,112,-0.08
+CA-093,Siskiyou County,California,-1.47,-1.38,40,-0.09
+CA-095,Solano County,California,-0.41,-0.46,62,0.05
+CA-097,Sonoma County,California,2.62,2.47,111,0.15
+CA-099,Stanislaus County,California,4.41,4.3,126,0.11
+CA-101,Sutter County,California,-0.11,-0.2,66,0.09
+CA-103,Tehama County,California,-0.29,-0.4,69,0.11
+CA-105,Trinity County,California,-0.46,-0.33,71,-0.13
+CA-107,Tulare County,California,-1.11,-1.11,54,0
+CA-109,Tuolumne County,California,-0.91,-1.02,46,0.11
+CA-111,Ventura County,California,3.61,3.2,120,0.41
+CA-113,Yolo County,California,-0.24,-0.29,64,0.05
+CA-115,Yuba County,California,-0.32,-0.46,64,0.14
