@@ -1,0 +1,63 @@
+January 2020 California County Precipitation
+Units: Inches
+Missing: -99
+Period of Record: 130 Years
+ID,Name,State,Value,Anomaly (1901-2000 base period),Rank,1901-2000 Mean
+CA-001,Alameda County,California,1.55,-2.42,35,3.97
+CA-003,Alpine County,California,1.86,-4.74,21,6.6
+CA-005,Amador County,California,2.4,-4.3,27,6.7
+CA-007,Butte County,California,4.06,-4.67,36,8.73
+CA-009,Calaveras County,California,2.11,-4.55,22,6.66
+CA-011,Colusa County,California,1.6,-2.86,28,4.46
+CA-013,Contra Costa County,California,1.54,-2.55,34,4.09
+CA-015,Del Norte County,California,18.37,4.47,105,13.9
+CA-017,El Dorado County,California,3.5,-4.93,34,8.43
+CA-019,Fresno County,California,0.7,-3.05,12,3.75
+CA-021,Glenn County,California,1.72,-3.44,30,5.16
+CA-023,Humboldt County,California,11.7,0.04,74,11.66
+CA-025,Imperial County,California,0.02,-0.51,13,0.53
+CA-027,Inyo County,California,0.05,-0.98,7,1.03
+CA-029,Kern County,California,0.31,-1.45,11,1.76
+CA-031,Kings County,California,0.55,-0.98,33,1.53
+CA-033,Lake County,California,5.04,-4.01,41,9.05
+CA-035,Lassen County,California,2.27,-1.06,57,3.33
+CA-037,Los Angeles County,California,0.24,-3.05,12,3.29
+CA-039,Madera County,California,0.92,-3.52,16,4.44
+CA-041,Marin County,California,3.56,-4.23,34,7.79
+CA-043,Mariposa County,California,1.36,-5.01,15,6.37
+CA-045,Mendocino County,California,7.39,-3.08,50,10.47
+CA-047,Merced County,California,0.67,-1.59,21,2.26
+CA-049,Modoc County,California,3.53,0.83,101,2.7
+CA-051,Mono County,California,0.48,-2.16,15,2.64
+CA-053,Monterey County,California,1.25,-3.14,24,4.39
+CA-055,Napa County,California,2.71,-4.16,33,6.87
+CA-057,Nevada County,California,4.42,-5.19,37,9.61
+CA-059,Orange County,California,0.23,-2.63,11,2.86
+CA-061,Placer County,California,3.79,-4.92,36,8.71
+CA-063,Plumas County,California,3.55,-4.21,37,7.76
+CA-065,Riverside County,California,0.1,-1.44,8,1.54
+CA-067,Sacramento County,California,1.28,-2.62,25,3.9
+CA-069,San Benito County,California,1.16,-2.29,27,3.45
+CA-071,San Bernardino County,California,0.03,-1.14,5,1.17
+CA-073,San Diego County,California,0.37,-2.37,12,2.74
+CA-075,San Francisco County,California,2.45,-2.82,36,5.27
+CA-077,San Joaquin County,California,1.05,-1.88,28,2.93
+CA-079,San Luis Obispo County,California,0.61,-3.1,14,3.71
+CA-081,San Mateo County,California,2.4,-3.8,34,6.2
+CA-083,Santa Barbara County,California,0.63,-3.44,17,4.07
+CA-085,Santa Clara County,California,2.19,-2.65,38,4.84
+CA-087,Santa Cruz County,California,2.78,-4.41,34,7.19
+CA-089,Shasta County,California,5.45,-2.17,51,7.62
+CA-091,Sierra County,California,3.66,-4.91,37,8.57
+CA-093,Siskiyou County,California,6.37,-0.37,70,6.74
+CA-095,Solano County,California,1.41,-2.96,27,4.37
+CA-097,Sonoma County,California,3.92,-5.2,31,9.12
+CA-099,Stanislaus County,California,0.93,-1.83,25,2.76
+CA-101,Sutter County,California,1.45,-2.48,29,3.93
+CA-103,Tehama County,California,3.47,-3.39,36,6.86
+CA-105,Trinity County,California,7.66,-3.11,48,10.77
+CA-107,Tulare County,California,0.8,-3.32,14,4.12
+CA-109,Tuolumne County,California,1.91,-5.77,18,7.68
+CA-111,Ventura County,California,0.51,-3.93,12,4.44
+CA-113,Yolo County,California,1.45,-2.8,27,4.25
+CA-115,Yuba County,California,3.51,-3.92,33,7.43
