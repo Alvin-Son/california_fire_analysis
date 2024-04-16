@@ -1,0 +1,63 @@
+October 2014 California County Maximum Temperature
+Units: Degrees Fahrenheit
+Missing: -99
+Period of Record: 129 Years
+ID,Name,State,Value,Anomaly (1901-2000 base period),Rank,1901-2000 Mean
+CA-001,Alameda County,California,78.3,5.1,127,73.2
+CA-003,Alpine County,California,63.1,5.8,116,57.3
+CA-005,Amador County,California,77.9,4.7,113,73.2
+CA-007,Butte County,California,77.7,3.3,103,74.4
+CA-009,Calaveras County,California,78.8,4.8,116,74
+CA-011,Colusa County,California,81.5,4.3,113,77.2
+CA-013,Contra Costa County,California,79.4,4.8,125,74.6
+CA-015,Del Norte County,California,65.6,2.8,109,62.8
+CA-017,El Dorado County,California,72.7,4.1,110,68.6
+CA-019,Fresno County,California,76.3,5.7,125,70.6
+CA-021,Glenn County,California,79,3.8,107,75.2
+CA-023,Humboldt County,California,69.5,4.2,121,65.3
+CA-025,Imperial County,California,93.3,4.9,121,88.4
+CA-027,Inyo County,California,80.8,6.3,124,74.5
+CA-029,Kern County,California,82.4,6.1,124,76.3
+CA-031,Kings County,California,84.6,5.4,121,79.2
+CA-033,Lake County,California,75.6,3.4,106,72.2
+CA-035,Lassen County,California,66.3,4,109,62.3
+CA-037,Los Angeles County,California,81.8,7.1,126,74.7
+CA-039,Madera County,California,76.9,5.2,118,71.7
+CA-041,Marin County,California,74.1,5.9,127,68.2
+CA-043,Mariposa County,California,75.9,4.9,115,71
+CA-045,Mendocino County,California,72.9,2.7,101,70.2
+CA-047,Merced County,California,82.8,5.7,126,77.1
+CA-049,Modoc County,California,65.8,4,108,61.8
+CA-051,Mono County,California,66.3,6.2,121,60.1
+CA-053,Monterey County,California,81.7,6,128,75.7
+CA-055,Napa County,California,80.1,4.8,122,75.3
+CA-057,Nevada County,California,70.7,3.3,105,67.4
+CA-059,Orange County,California,82.8,6.2,124,76.6
+CA-061,Placer County,California,72.6,3.8,108,68.8
+CA-063,Plumas County,California,67.1,4.1,107,63
+CA-065,Riverside County,California,87.7,5.3,121,82.4
+CA-067,Sacramento County,California,82.6,4.7,119,77.9
+CA-069,San Benito County,California,80.9,6.4,126,74.5
+CA-071,San Bernardino County,California,85.6,6.2,122,79.4
+CA-073,San Diego County,California,83.8,6.5,125,77.3
+CA-075,San Francisco County,California,73,4.7,128,68.3
+CA-077,San Joaquin County,California,82.9,5.8,124,77.1
+CA-079,San Luis Obispo County,California,82,6.9,128,75.1
+CA-081,San Mateo County,California,74.7,5,128,69.7
+CA-083,Santa Barbara County,California,80,7.8,127,72.2
+CA-085,Santa Clara County,California,78.2,5.2,127,73
+CA-087,Santa Cruz County,California,77.6,5.8,125,71.8
+CA-089,Shasta County,California,72.6,2.9,95,69.7
+CA-091,Sierra County,California,66.4,3.9,108,62.5
+CA-093,Siskiyou County,California,64.5,2.7,100,61.8
+CA-095,Solano County,California,81.2,4.7,123,76.5
+CA-097,Sonoma County,California,77.4,5.3,124,72.1
+CA-099,Stanislaus County,California,81.6,5,122,76.6
+CA-101,Sutter County,California,82.6,4.1,115,78.5
+CA-103,Tehama County,California,75.8,3,96,72.8
+CA-105,Trinity County,California,68.6,2.5,92,66.1
+CA-107,Tulare County,California,74.6,5.9,123,68.7
+CA-109,Tuolumne County,California,70.2,5,117,65.2
+CA-111,Ventura County,California,79,7.2,125,71.8
+CA-113,Yolo County,California,82.4,4.3,116,78.1
+CA-115,Yuba County,California,79,3.3,103,75.7
