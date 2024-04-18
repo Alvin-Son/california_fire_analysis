@@ -61,6 +61,8 @@ The analysis conducted sought to uncover relationships between climate variables
 3. Which counties are most affected by wildfires, and how do climatic fluctuations influence this?
 
 ## **1. Trends in Weather and Fire Over the Past 10 Years:**
+![image](https://github.com/NicholasJWiid/project_1_WC_fire_analysis/assets/159491405/ea0757cc-e24a-44d3-86d4-aca83b0196a5) ![image](https://github.com/NicholasJWiid/project_1_WC_fire_analysis/assets/159491405/46747749-5355-497c-92c5-01c6264529ec)
+
 Both climatic and fire data were thoroughly analyzed, revealing slight upward trends in temperatures after 2019 and variable rainfall patterns over the decade.
 Despite these changes, the statistical correlation between these weather conditions and the number of incidents per year proved to be weak. 
 
@@ -71,6 +73,7 @@ These observations suggest that temperature is not the sole factor that influenc
 Similar to the average temperature, an analysis of average rainfall also showed that here does not appear to be a direct correlation between rainfall and the number of fire incidents, as years with higher rainfall do not consistently correspond to fewer fire incidents, and vice versa.
 
 ## **2. Relationship Between Climate Variables and Wildfires:**
+![image](https://github.com/NicholasJWiid/project_1_WC_fire_analysis/assets/159491405/7793e012-9844-4bec-ad42-1dee4b18eb61) ![image](https://github.com/NicholasJWiid/project_1_WC_fire_analysis/assets/159491405/bcfe48fa-63d2-40ba-9c62-a7e8dd281e82)
 The analysis of the relationship between total monthly rainfall and acres burned by wildfires indicates a very weak negative correlation, with an r-value of -0.04, pointing to a lack of meaningful linear connection. This is further supported by the nearly horizontal regression line observed in the plot. The scatter plot points vary in size, corresponding to the average duration of fires, but do not exhibit a clear correlation with either rainfall or acres burned. 
 Most incidents occur with less than 1 inch of rainfall, and there is a broad range of variability in the acres burned regardless of the amount of rainfall, underscoring the complexity of factors that influence wildfire behavior.
 
@@ -80,7 +83,8 @@ The dispersion of data across the temperature spectrum further suggests that max
 
 These findings indicate that while there is some level of association with maximum temp and acres burned, other variables not included in this study likely play a more crucial role in influencing wildfire characteristics.
 
-## **3. Impact on Specific Counties:**
+## **3. Impact on Specific Counties:** ![image](https://github.com/NicholasJWiid/project_1_WC_fire_analysis/assets/159491405/b0a9290a-55c4-41fa-a30a-ca6a1eac737a)
+
 The County plot highlights the annual fire incident counts for the top 5 counties with varying fire activities. Different colors represent each county, while the marker size reflects the scaled-down average acres burned. 
 Riverside County’s fire incidents appear consistently over the years, whereas Shasta County displays several years with a notably large number of incidents, suggested by larger markers. 
 But the fire incidents lack a uniform trend across all counties, which suggests that fire incidents in each county are influenced by unique local conditions and factors, which lead to various patterns and stability in the number of fire incidents from year to year.
