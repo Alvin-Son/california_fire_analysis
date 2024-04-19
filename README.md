@@ -1,10 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # project_1_WC_fire_analysis
 =======
 # **West Coast Fire Analysis**
 
 ## **Overview:**
 This project seeks to analyze the relationship between climate variables and wildfire occurrences in California. Our goal is to understand how monthly rainfall and temperature affect fire frequency across different counties, providing insights into how impacts of climate change may affect wildfire dynamics in the future.
+=======
+# **West Coast Fire Analysis**
+
+## **Overview:**
+This project aims to analyze the relationship between climate variables and wildfire occurrences in California. Our goal is to seek to understand how monthly rainfall and temperature affect fire frequency across different counties, providing insights into how impacts of climate change may affect wildfire dynamics in the future.
+>>>>>>> aa15833b6feb4239254b4d9773772e6587abbb91
 
 ## **Team Members:**
 Alvin,
@@ -159,4 +166,7 @@ Given the weak correlations found in this study, it is advisable to:
 
 # **Conclusion:**
 This high level analysis exploring the relationship between monthly rainfall, temperature variables and aggregate monthly wildfire frequency, size, and duration in California over the past decade reveals a weak relationship. These findings challenge the initial idea that rainfall and max temperature at a monthly level would show significant influence on wildfire occurrence and intensity. The results suggest instead that there are many additional factors to consider. The limited impact of the studied weather variables underscores the complexity of wildfire causation and emphasizes the need for a broader investigative approach, including more granular weather data, an improved strategy for normalizing fire data so that it can be more easily compared to weather variables, and the consideration of a variety of other environmental and anthropogenic factors. With greater resources and time, such an approach would be able to provide much greater insight into the relationship between fire and weather variables, leading to the development of more effective wildfire research programs and prevention and preparation strategies.
+<<<<<<< HEAD
 >>>>>>> 7d75a7f (Update README.md)
+=======
+>>>>>>> aa15833b6feb4239254b4d9773772e6587abbb91
