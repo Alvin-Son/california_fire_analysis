@@ -25,11 +25,9 @@ This project explores the relationship between weather factors and wildfire occu
 
 ## **Data Sources and References:**
 ### California Fire data - 2013-2024 from Cal Fire
-
 - Available at: https://www.fire.ca.gov/incidents
 
 ### California Weather data - 2013-2024 from NOAA
-
 - NOAA National Centers for Environmental information, Climate at a Glance: County Mapping, published April 2024, retrieved on April 9, 2024.
 - Available at: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/mapping
 
