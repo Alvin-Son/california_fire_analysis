@@ -138,7 +138,7 @@ The table below shows summary statistics for the three main fire variables. A fe
 
 Further analysis could look deeper into the statistical characteristics of the dataset, looking to isolate outlier events and study the weather conditions before, during and after such an occurrence.
 
-### **3. Impact on Specific Counties:** ![image]
+### **3. Impact on Specific Counties:**
 **3.1 Top 5 county fire incidents by year**
 
 The County plot below highlights the annual fire incident counts for the top 5 counties with varying fire activities. Different colors represent each county, while the marker size reflects the scaled-down average acres burned. 
