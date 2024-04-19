@@ -14,11 +14,7 @@ Zahraa.
 ## **Background:**
 According to the [National Park Service](https://www.nps.gov/articles/wildfire-causes-and-evaluation.htm), 89% of Wildfires in the US are caused by Humans. The 2020 California Wildfire was one of the [worst in US History](https://earth.org/worst-wildfires-in-us-history/). With global Wildfires set to rise by [50% by 2100](https://wmo.int/media/news/number-of-wildfires-forecast-rise-50-2100#:~:text=Climate%20change%20and%20land%2Duse,according%20to%20a%20new%20report), California is at risk of seeing an increase in frequency and severity of wildfire events.
 
-This project explores the relationship between weather factors and wildfire occurrences over the past decade. 
-
-Many factors contribute to Wildfires including climate change, forest mismanagement, urban encroachment, and strong winds like the Santa Ana and Diablo Winds. 
-
-This specific analysis will focus initially on how rainfall and max temperature may affect the California Wildfires.
+This project explores the relationship between weather factors and wildfire occurrences over the past decade. Many factors contribute to Wildfires including climate change, forest mismanagement, urban encroachment, and strong winds like the Santa Ana and Diablo Winds.. This specific analysis will focus initially on how rainfall and max temperature may affect the California Wildfires.
 
 ## **Research Questions:**
 1. What are the basic weather and fire trends in California over the past 10 years?
@@ -71,8 +67,6 @@ Cleanup and preparation was relatively straightforward. This involved looping th
 **Limitations to Analysis**
 
 The biggest limitation to the analysis was the availability of weather data and the scope of the project. Due to time and resource constraints, the project went ahead using monthly rainfall and max temperature data, when it would have been more accurate to use daily weather data. Monthly data was a challenge since it is hard to compare accurately to fire data. Individual fires vary in duration, from as little as 1 day to over a year in some cases. More specifically, nearly 50% of fires lasted less than 1 week, and nearly 40% of fires lasted more than two months. This means that monthly aggregate weather data was a poor comparison to fires that either occurred on a specific day with specific weather conditions, or occurred over several months. Furthermore, due to a short time frame the project was only able to look at two weather variables, when there are many others that would likely have a significant impact on fire occurrence, duration and size. Two obvious factors include wind speed and groundwater resources.
-
-
 
 ## **Analysis**
 
