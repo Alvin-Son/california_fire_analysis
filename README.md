@@ -1,6 +1,7 @@
 # **West Coast Fire Analysis**
 
-## **Overview:**
+## **Project Overview:**
+
 This project aims to analyze the relationship between climate variables and wildfire occurrences in California. Our goal is to seek to understand how monthly rainfall and temperature affect fire frequency across different counties, providing insights into how impacts of climate change may affect wildfire dynamics in the future.
 
 ## **Team Members:**
@@ -11,7 +12,16 @@ Nicholas,
 Zahraa.
 
 ## **Background:**
-With the increasing frequency and severity of California wildfires, likely exacerbated by drought conditions and climate change, this project explores the relationship between climatic factors and wildfire occurrences over the past decade.
+According to the National Park Service, 89% of Wildfires in the US are caused by Humans. (https://www.nps.gov/articles/wildfire-causes-and-evaluation.htm),
+- The 2020 California Wildfire was one of the worst in US History. (https://earth.org/worst-wildfires-in-us-history/#:~:text=Bay%20Area%20Fire%2C%20California%20(2020,killed%20at%20least%2035%20people)
+
+With global Wildfires set to rise by 50% by 2100 (https://wmo.int/media/news/number-of-wildfires-forecast-rise-50-2100#:~:text=Climate%20change%20and%20land%2Duse,according%20to%20a%20new%20report), California is at risk of seeing an increase in frequency and severity of wildfire events. 
+
+This project explores the relationship between weather factors and wildfire occurrences over the past decade. 
+
+Many factors contribute to Wildfires including climate change, forest mismanagement, urban encroachment, and strong winds like the Santa Ana and Diablo Winds. 
+
+This specific analysis will focus initially on how rainfall and max temperature may affect the California Wildfires.
 
 ## **Research Questions:**
 1. What are the basic weather and fire trends in California over the past 10 years?
@@ -21,18 +31,17 @@ With the increasing frequency and severity of California wildfires, likely exace
 3. Which counties are most affected by wildfires, and how do climatic fluctuations influence this?
 
 ## **Data Sources and References:**
-### CA Fire data by county (2013-2024)
+### California Fire data - 2013-2024 from Cal Fire
 
 - Available at: https://www.fire.ca.gov/incidents
 
-### California Weather data - 2013-2024
+### California Weather data - 2013-2024 from NOAA
 
-### California Open Data Portal - County boundaries
+- NOAA National Centers for Environmental information, Climate at a Glance: County Mapping, published April 2024, retrieved on April 9, 2024.
+- Available at: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/mapping
+
+### County boundaries - California Open Data Portal
 - Available at: https://data.ca.gov/dataset/ca-geographic-boundaries/resource/b0007416-a325-4777-9295-368ea6b710e6
-
-### NOAA Climate Data
-
-- NOAA National Centers for Environmental information, Climate at a Glance: County Mapping, published April 2024, retrieved on April 9, 2024. Available at: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/mapping
 
 ### Additional historical data from WA Fire (1973-2023)
 
@@ -46,7 +55,11 @@ Matplotlib: For creating visualizations
 
 NumPy, SciPy: For numerical operations
 
-Setup and Installation
+Hvplots, Pandas: Mapping visualizations
+
+Geopandas: Coordinate mapping
+
+Jupyter Notebooks: Data collection, leaning, analysis and visualizations
 
 ## **Description of collection and cleanup processes**
 
@@ -156,7 +169,3 @@ Given the weak correlations found in this study, it is advisable to:
 
 # **Conclusion:**
 This high level analysis exploring the relationship between monthly rainfall, temperature variables and aggregate monthly wildfire frequency, size, and duration in California over the past decade reveals a weak relationship. These findings challenge the initial idea that rainfall and max temperature at a monthly level would show significant influence on wildfire occurrence and intensity. The results suggest instead that there are many additional factors to consider. The limited impact of the studied weather variables underscores the complexity of wildfire causation and emphasizes the need for a broader investigative approach, including more granular weather data, an improved strategy for normalizing fire data so that it can be more easily compared to weather variables, and the consideration of a variety of other environmental and anthropogenic factors. With greater resources and time, such an approach would be able to provide much greater insight into the relationship between fire and weather variables, leading to the development of more effective wildfire research programs and prevention and preparation strategies.
-<<<<<<< HEAD
->>>>>>> 7d75a7f (Update README.md)
-=======
->>>>>>> aa15833b6feb4239254b4d9773772e6587abbb91
