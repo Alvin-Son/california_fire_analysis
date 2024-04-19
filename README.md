@@ -1,4 +1,4 @@
-# **West Coast Fire Analysis**
+# **California Fire Analysis**
 
 ## **Project Overview:**
 
@@ -12,7 +12,7 @@ Nicholas,
 Zahraa.
 
 ## **Background:**
-According to the [National Park Service](https://www.nps.gov/articles/wildfire-causes-and-evaluation.htm), 89% of Wildfires in the US are caused by Humans. The 2020 California Wildfire was one of the [worst in US History](https://earth.org/worst-wildfires-in-us-history/#:~:text=Bay%20Area%20Fire%2C%20California%20(2020,killed%20at%20least%2035%20people). With global Wildfires set to rise by [50% by 2100] (https://wmo.int/media/news/number-of-wildfires-forecast-rise-50-2100#:~:text=Climate%20change%20and%20land%2Duse,according%20to%20a%20new%20report), California is at risk of seeing an increase in frequency and severity of wildfire events.
+According to the [National Park Service](https://www.nps.gov/articles/wildfire-causes-and-evaluation.htm), 89% of Wildfires in the US are caused by Humans. The 2020 California Wildfire was one of the [worst in US History](https://earth.org/worst-wildfires-in-us-history/). With global Wildfires set to rise by [50% by 2100](https://wmo.int/media/news/number-of-wildfires-forecast-rise-50-2100#:~:text=Climate%20change%20and%20land%2Duse,according%20to%20a%20new%20report), California is at risk of seeing an increase in frequency and severity of wildfire events.
 
 This project explores the relationship between weather factors and wildfire occurrences over the past decade. 
 
