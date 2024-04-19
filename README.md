@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# project_1_WC_fire_analysis
-=======
 # **West Coast Fire Analysis**
 
 ## **Overview:**
