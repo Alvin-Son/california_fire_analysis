@@ -1,13 +1,7 @@
 # **West Coast Fire Analysis**
 
 ## **Overview:**
-This project seeks to analyze the relationship between climate variables and wildfire occurrences in California. Our goal is to understand how monthly rainfall and temperature affect fire frequency across different counties, providing insights into how impacts of climate change may affect wildfire dynamics in the future.
-=======
-# **West Coast Fire Analysis**
-
-## **Overview:**
 This project aims to analyze the relationship between climate variables and wildfire occurrences in California. Our goal is to seek to understand how monthly rainfall and temperature affect fire frequency across different counties, providing insights into how impacts of climate change may affect wildfire dynamics in the future.
->>>>>>> aa15833b6feb4239254b4d9773772e6587abbb91
 
 ## **Team Members:**
 Alvin,
